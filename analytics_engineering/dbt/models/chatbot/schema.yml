@@ -1,0 +1,10 @@
+version : 2
+sources:
+  - name: chatbot
+    database: AI4MENTALHEALTH
+    schema: CHATBOT
+
+    tables:
+      - name: blurt 
+      - name: nat
+      - name: chipur

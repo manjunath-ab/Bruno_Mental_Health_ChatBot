@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: dagster_ai4mentalhealth
+Version: 0.0.0
+Requires-Dist: dagster
+Requires-Dist: dagster-cloud
+Requires-Dist: pandas
+Requires-Dist: langchain-openai
+Requires-Dist: langchain-community
+Requires-Dist: langchain
+Requires-Dist: selenium
+Requires-Dist: snowflake-connector-python
+Provides-Extra: dev
+Requires-Dist: dagster-webserver; extra == "dev"
+Requires-Dist: pytest; extra == "dev"

@@ -1,0 +1,12 @@
+dagster
+dagster-cloud
+pandas
+langchain-openai
+langchain-community
+langchain
+selenium
+snowflake-connector-python
+
+[dev]
+dagster-webserver
+pytest

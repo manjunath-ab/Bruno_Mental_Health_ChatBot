@@ -1,0 +1,8 @@
+version : 2
+sources:
+  - name: staging
+    database: AI4MENTALHEALTH
+    schema: STAGING
+
+    tables:
+      - name: chatbot_knowledge
