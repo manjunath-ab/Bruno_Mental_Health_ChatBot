@@ -1,4 +1,4 @@
-# AI4MentalHealth 💚
+# AI for Mental Health 💚
 
 ## Live Application Links 🌐
 
